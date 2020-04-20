@@ -13,3 +13,8 @@ Decorator Design Pattern(Structural pattern)
 -- Have a class that implements the interface can be an abstract or concrete class
 -- The Decorator class must have an instance of the interface and an overloaded constructor were the interface is a parameter
 -- Additional behavior and functionality of the Object resides in the Decorator
+
+
+Prototype
+
+-- Making a copy(cloning) of an object without affecting the existing Object 

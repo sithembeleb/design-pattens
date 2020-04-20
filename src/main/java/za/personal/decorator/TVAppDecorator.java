@@ -1,4 +1,4 @@
-package decorator;
+package za.personal.decorator;
 
 public class TVAppDecorator extends AppDecorator {
 

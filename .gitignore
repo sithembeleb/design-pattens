@@ -1,2 +1,4 @@
 ## Directory-based project format:
 .idea/
+target/
+design-patterns.iml

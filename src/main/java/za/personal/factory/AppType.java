@@ -1,4 +1,4 @@
-package factory;
+package za.personal.factory;
 
 public enum AppType {
     IOS,

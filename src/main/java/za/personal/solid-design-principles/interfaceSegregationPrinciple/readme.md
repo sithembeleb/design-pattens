@@ -1,0 +1,1 @@
+This principle is to encourage to have a few as possible methods to avoid having a client being forced to implement methods not needed 

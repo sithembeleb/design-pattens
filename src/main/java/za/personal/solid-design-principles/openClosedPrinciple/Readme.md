@@ -1,0 +1,1 @@
+open for inheritance and implementation but closed for modification
